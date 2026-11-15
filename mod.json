@@ -1,12 +1,22 @@
 
 {
-  "geode": "v6.0.0-alpha.2",
+  "geode": "6.0.0-alpha.2",
   "gd": {
     "android": "2.2081"
   },
   "id": "fakeqolmods.fakeqolmods",
   "name": "Fake QOLMods",
-  "version": "v1.0.0",
+  "version": "1.0.0",
   "developer": "FakeQOLMods Team",
-  "description": "An experimental Geometry Dash quality of life mod for Android64."
+  "description": "A Geometry Dash Android64 quality of life mod with useful offline features.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ayamtayamenak-afk/FakeQOLMods..-"
+  },
+  "tags": [
+    "offline",
+    "utility",
+    "enhancement"
+  ],
+  "dependencies": {}
 }
