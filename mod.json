@@ -1,0 +1,12 @@
+
+{
+  "geode": "v6.0.0-alpha.2",
+  "gd": {
+    "android": "2.2081"
+  },
+  "id": "fakeqolmods.fakeqolmods",
+  "name": "Fake QOLMods",
+  "version": "v1.0.0",
+  "developer": "FakeQOLMods Team",
+  "description": "An experimental Geometry Dash quality of life mod for Android64."
+}
